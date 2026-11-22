@@ -3,7 +3,7 @@
 ![img alt](https://github.com/NOVA-tri/Gallery-/blob/3c906427d6098d793a8d2b6f8d2a9ee08c09a94f/IMG-20261105-WA0004.jpg)
 ![img alt](https://github.com/NOVA-tri/Gallery-/blob/3c906427d6098d793a8d2b6f8d2a9ee08c09a94f/IMG-20261122-WA0019.jpg)
 ![img alt](https://github.com/NOVA-tri/Gallery-/blob/3c906427d6098d793a8d2b6f8d2a9ee08c09a94f/IMG-20261122-WA0022.jpg)
-![img alt](https://github.com/NOVA-tri/Gallery-/blob/3c906427d6098d793a8d2b6f8d2a9ee08c09a94f/IMG_20261122_060417_562.jpg)
+![img alt](https://github.com/NOVA-tri/Gallery-/blob/efc2b88f267a3841d7b83d77368d50ca937a53f2/IMG-20261122-WA0021.jpg)
 ![img alt](https://github.com/NOVA-tri/Gallery-/blob/aa642b6bd975b80c920f6014d6ac78271f76b709/IMG_20261122_060435_495.jpg)
 ![img alt](https://github.com/NOVA-tri/Gallery-/blob/aa642b6bd975b80c920f6014d6ac78271f76b709/Screenshot_20261027-195934.jpg)
 ![img alt](https://github.com/NOVA-tri/Gallery-/blob/aa642b6bd975b80c920f6014d6ac78271f76b709/lv_0_20261027074938.jpg)
